@@ -1,7 +1,7 @@
 # swdnd5.5earchive
 
-Public wiki and archive for the swdnd5.5 campaign.
+Public campaign wiki and archive for swdnd5.5, published with GitHub Pages from the root of `main`.
 
-Only player-safe, public campaign material belongs here. Private GM notes and secrets belong in the private campaign workspace.
+Site: https://jaxsnjohnson.github.io/swdnd5.5earchive/
 
-Wiki content and hosting are not configured yet.
+Only player-safe, public campaign material belongs here. Keep private GM notes and secrets in the private campaign workspace. GitHub Wiki is disabled.
